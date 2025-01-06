@@ -1,0 +1,11 @@
+[package]
+name = "clap-offer"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Clap ValueParser for Strings allowing to offer user some common values through shell completion, but still accepts any string."
+repository = "https://github.com/nedv-eu/clap-offer"
+readme = "README.md"
+
+[dependencies]
+clap = "4.5.23"
